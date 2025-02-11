@@ -1,0 +1,12 @@
+baseURL = "http://theinfiniteline1729.com/"
+languageCode = "en-us"
+title = "The Infinite Line"
+theme = "hyde"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Essential for MathJax
+
+[params]
+  description = "A blog about mathematics and its applications"
