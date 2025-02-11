@@ -1,4 +1,4 @@
-baseURL = "http://theinfiniteline1729.com/"
+baseURL = "https://theinfiniteline1729.netlify.app/"
 languageCode = "en-us"
 title = "The Infinite Line"
 theme = "hyde"
