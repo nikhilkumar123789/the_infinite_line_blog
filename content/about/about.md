@@ -7,6 +7,9 @@ date: 2025-02-09
 
 Welcome to **The Infinite Line**, a blog dedicated to exploring the boundless world of mathematics. Here, we delve into a wide array of mathematical concepts, from foundational principles to advanced theories, aiming to make math accessible and engaging for all.
 
+> “If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”
+> — John von Neumann
+
 ## Our Mission
 
 At **The Infinite Line**, our mission is to:
