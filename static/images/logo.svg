@@ -1,0 +1,43 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="280" x2="392" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F2FE"/>
+      <stop offset="0.5" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#D4F6E7"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="120" y1="140" x2="382" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#bg)"/>
+
+  <g opacity="0.18" stroke="#C7D2FE" stroke-width="1.5">
+    <path d="M90 164H422"/>
+    <path d="M90 256H422"/>
+    <path d="M90 348H422"/>
+    <path d="M164 90V422"/>
+    <path d="M256 90V422"/>
+    <path d="M348 90V422"/>
+  </g>
+
+  <circle cx="256" cy="256" r="154" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+
+  <path d="M108 284C144 238 174 212 208 212C242 212 255 246 280 246C305 246 318 200 352 200C380 200 395 224 408 252" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M108 236C144 282 174 308 208 308C242 308 255 274 280 274C305 274 318 320 352 320C380 320 395 296 408 268" stroke="url(#line)" stroke-width="10" stroke-linecap="round"/>
+
+  <path d="M176 154L217 198L176 242" stroke="#93C5FD" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M336 154L295 198L336 242" stroke="#93C5FD" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="256" y="304" text-anchor="middle" font-size="150" font-family="Georgia, 'Times New Roman', serif" fill="#F8FAFC" font-weight="700">∞</text>
+
+  <g fill="#E2E8F0" font-family="Georgia, 'Times New Roman', serif">
+    <text x="122" y="128" font-size="28" font-weight="700">∑</text>
+    <text x="368" y="382" font-size="28" font-weight="700">∫</text>
+  </g>
+</svg>
