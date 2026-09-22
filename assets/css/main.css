@@ -45,8 +45,9 @@ body {
     radial-gradient(circle at top, rgba(37, 99, 235, 0.12), transparent 28%),
     var(--bg);
   color: var(--ink);
-  font-family: 'Inter', 'Segoe UI', sans-serif;
-  line-height: 1.7;
+  font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
   padding-top: 5rem;
 }
 
@@ -68,7 +69,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Source Serif Pro', Georgia, serif;
+  font-family: 'Libre Baskerville', 'Cormorant Garamond', Georgia, serif;
   color: var(--ink);
   line-height: 1.2;
   letter-spacing: -0.02em;
@@ -147,7 +148,7 @@ a:focus {
 }
 
 #site-title {
-  font-family: 'Poppins', 'Inter', sans-serif;
+  font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
   font-size: clamp(1.15rem, 2vw, 1.5rem);
   font-weight: 700;
   letter-spacing: -0.04em;
